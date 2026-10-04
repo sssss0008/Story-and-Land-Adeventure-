@@ -1,0 +1,6 @@
+{
+  "name": "StoryLand Adventure",
+  "description": "Interactive storytelling, reading, creativity, and adventure game app for children.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
